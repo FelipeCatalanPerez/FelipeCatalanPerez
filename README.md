@@ -11,9 +11,6 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="350" height="150"></p>
 
-
-📫 How to reach me **felipecatalanf9@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -21,3 +18,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="30" width="40" /></a>
 </p>
+📫 **felipecatalanf9@gmail.com**
