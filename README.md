@@ -3,7 +3,7 @@
 
 *I am Felipe Catalán, a young 25-year-old bussines administrator and I am starting out in the wide world of data. My goal is to become a data analyst and for that I present my main codes, here you will find:*
 
-- :card_file_box: *Database cleaning (Basic).*
+- :card_file_box: *Database cleaning.*
 - :bar_chart: *Descriptive statistics and its interpretation.*
 - :chart_with_upwards_trend: *Inferential statistics and its interpretation (classical model regressions).*
 
