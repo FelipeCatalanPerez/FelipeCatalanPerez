@@ -7,7 +7,8 @@
 - :bar_chart: *Descriptive statistics and its interpretation.*
 - :chart_with_upwards_trend: *Inferential statistics and its interpretation (classical model regressions).*
 
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg)
+*I currently work at KPMG on payroll*
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg)
 
 📫 How to reach me **felipecatalanf9@gmail.com**
 
