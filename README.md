@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Felipe Ignacio Catalán Perez</h1>
+<h1 align="left"> 👋 Hi there, my name is Felipe Ignacio Catalán Perez</h1>
 <h3 align="left">A business administrator from Chile looking to become a data analyst.</h3>
 
 *I am Felipe Catalán, a young 25-year-old bussines administration and I am starting out in the wide world of data. My goal is to become a data analyst and for that I present my main codes, here you will find:*
 
-- :card_file_box:*Database cleaning (Basic).*
-- :bar_chart:*Descriptive statistics and its interpretation.*
-- :chart_with_upwards_trend:*Inferential statistics and its interpretation (classical model regressions).*
+- :card_file_box: *Database cleaning (Basic).*
+- :bar_chart: *Descriptive statistics and its interpretation.*
+- :chart_with_upwards_trend: *Inferential statistics and its interpretation (classical model regressions).*
 
 📫 How to reach me **felipecatalanf9@gmail.com**
 
