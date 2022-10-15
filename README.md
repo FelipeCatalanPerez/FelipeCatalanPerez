@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Felipe Ignacio Catalán Perez</h1>
-<h3 align="left">***A business administrator from Chile looking to become a data analyst.***</h3>
+***<h3 align="left">A business administrator from Chile looking to become a data analyst.</h3>***
 
 - 📫 How to reach me **felipecatalanf9@gmail.com**
 
