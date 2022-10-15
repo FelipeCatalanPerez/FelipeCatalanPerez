@@ -10,6 +10,8 @@
 *I currently work at KPMG on payroll*
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="600" height="300">
+
 📫 How to reach me **felipecatalanf9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
