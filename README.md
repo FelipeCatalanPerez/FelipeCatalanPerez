@@ -11,6 +11,9 @@
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="600" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="800" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="700" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="650" height="300">
 
 📫 How to reach me **felipecatalanf9@gmail.com**
 
