@@ -9,7 +9,7 @@
 
 *I currently work at KPMG on payroll*
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="350" height="150">
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="350" height="150"></p>
 
 
 📫 How to reach me **felipecatalanf9@gmail.com**
