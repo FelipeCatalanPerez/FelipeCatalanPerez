@@ -22,8 +22,8 @@
 
 📫 How to reach me **felipecatalanf9@gmail.com**
 
-## Revisa mi trabajo
-<h3 align="left">Revisa mis laboratorios:</h3>
+## Check my work
+<h3 align="left">My labs:</h3>
 <p align="left">
 <a href="https://felipecatalanperez.github.io/Laboratorio_1/" target="blank"><img align="center" src="https://svgsilh.com/svg/146021.svg" alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> <a
 align="left">
