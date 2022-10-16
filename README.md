@@ -12,6 +12,7 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KPMG.svg"  width="350" height="150"></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -24,9 +25,7 @@
 ## Revisa mi trabajo
 <h3 align="left">Para ver mi trabajo has clic en las imagenes:</h3>
 <p align="left">
-<a href="https://felipecatalanperez.github.io/Laboratorio_1/" target="blank"><img align="center" src="https://svgsilh.com/svg/146021.svg" alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /></a>
-</p>
-
-<p align="left">
+<a href="https://felipecatalanperez.github.io/Laboratorio_1/" target="blank"><img align="center" src="https://svgsilh.com/svg/146021.svg" alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> <a
+align="left">
 <a href="https://felipecatalanperez.github.io/Laboratorio2/" target="blank"><img align="center" src="https://svgsilh.com/svg/150791.svg" alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /></a>
 </p>
