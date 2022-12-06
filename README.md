@@ -9,7 +9,11 @@
 
 <h3 align="left">Tools:</h3>
 
-<p align="left"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +44,8 @@ href="https://felipecatalanperez.github.io/Databricks_SQL/"
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/33766.svg" 
 alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
+
+
 </p>
 
 
