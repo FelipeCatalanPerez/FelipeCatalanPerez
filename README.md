@@ -10,9 +10,9 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="60" height="60"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
