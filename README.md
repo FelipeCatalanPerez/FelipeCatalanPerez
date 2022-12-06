@@ -23,5 +23,7 @@
 <p align="left">
 <a href="https://felipecatalanperez.github.io/Laboratorio_1/" target="blank"><img align="center" src="https://svgsilh.com/svg/146021.svg" alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> <a
 align="left">
-<a href="https://felipecatalanperez.github.io/Laboratorio2/" target="blank"><img align="center" src="https://svgsilh.com/svg/150791.svg" alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /></a>
+<a href="https://felipecatalanperez.github.io/Laboratorio2/" target="blank"><img align="center" src="https://svgsilh.com/svg/150791.svg" alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> <a
+align="left">
+<a href="https://felipecatalanperez.github.io/Databricks_SQL/" target="blank"><img align="center" src="https://svgsilh.com/svg/33766.svg" alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
 </p>
