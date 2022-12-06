@@ -44,8 +44,6 @@ href="https://felipecatalanperez.github.io/Databricks_SQL/"
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/33766.svg" 
 alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
-
-
 </p>
 
 
