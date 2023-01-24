@@ -20,7 +20,7 @@
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="30" width="40" /></a>
-📫 <span style="color: #0000ff;"><strong>&nbsp;felipecatalanf9@gmail.com</strong></span></p>
+📫 <a<span style="color: #0000ff;"><strong>&nbsp;felipecatalanf9@gmail.com</strong></span></a></p>
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
