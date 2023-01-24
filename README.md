@@ -1,7 +1,7 @@
 <h1 align="left"> 👋 Hola, mi nombre es Felipe Ignacio Catalán Perez</h1>
-<h3 align="left">Un Ingeniero Comercial que busca desarrollarse como analista de datos</h3>
+<h3 align="left">Soy un Ingeniero Comercial que busca desarrollarse como analista de datos</h3>
 
-*Soy un joven de 25 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales códigos, aquí encontrarás:*
+*Un joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales códigos, aquí encontrarás:*
 
 - :card_file_box: *Limpieza y recopilación de datos.*
 - :bar_chart: *Análisis con estadística descriptiva.*
