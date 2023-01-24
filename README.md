@@ -19,7 +19,7 @@
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
-### Puedes dar<img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="30" height="30" />en los laboratorios
+### Puedes dar<img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="30" height="30" />en los laboratorios.
 
 <p align="center">
 <a 
@@ -28,7 +28,7 @@ target="blank"><img align="center"
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio1.gif" 
 alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="100" width="200" /> </a> 
 
-Laboratorio 1 de exploración de Datos en el <strong>lenguaje de programación R.</strong>
+Laboratorio 1 de exploración de Datos en el `lenguaje de programación R.`
 
 - Limpieza de datos.
 - Estadística descriptiva. (Tablas y gráficos)
@@ -42,7 +42,7 @@ target="blank"><img align="center"
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio2.gif" 
 alt="https://felipecatalanperez.github.io/Laboratorio2/" height="100" width="200" /> </a> 
 
-Laboratorio 2 de exploración de Datos en el <strong>lenguaje de programación R.</strong> 
+Laboratorio 2 de exploración de Datos en el `lenguaje de programación R.` 
 
 - Estadística descriptiva. (Tablas y gráficos)
   - Nube de palabras.
@@ -57,7 +57,7 @@ target="blank"><img align="center"
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio3.gif" 
 alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="100" width="200" /> </a>
 
-Laboratorio 3 realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
+Laboratorio 3 realizado en el `lenguaje de consulta estructurada SQL.` Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
 
 -	Exploración los datos. (Aplicación de filtros y condicionales)
 -	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)
@@ -70,14 +70,33 @@ target="blank"><img align="center"
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio4.gif" 
 alt="https://colab.research.google.com/drive/19p5Zx6v-Lpv4tjDshJ14aGLJp0e50u2M#scrollTo=TghDDREo-qNp" height="100" width="200" /> </a>
 
-Laboratorio 4 de Análisis de Sentimientos en el <strong>lenguaje de programación Python.</strong> Realizado en colab de Google drive.
+Laboratorio 4 de Análisis de Sentimientos en el `lenguaje de programación Python.` Realizado en colab de Google drive.
 
 - Extracción de datos de twitter. (Uso de API twint)
-  - Uso de bucles, funciones y operaciones lógicas.
+  - Uso de bucles, funciones y operadores lógicos.
 - Lematización.
   - Limpieza de texto.
 - Análisis grafico.
   - Nube de palabras.
+</p>
+
+<p align="center">
+<a 
+href="https://colab.research.google.com/drive/1j4CoogS2GO7KFg8Rc3CxhcURDm7VxUcO#scrollTo=bfoskOnVFPk-" 
+target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio5.gif" 
+alt="https://colab.research.google.com/drive/1j4CoogS2GO7KFg8Rc3CxhcURDm7VxUcO#scrollTo=bfoskOnVFPk-" height="100" width="200" /> </a>
+
+Laboratorio 5 Modelo de clasificación de Correos Spam en el `lenguaje de programación Python.` Realizado en colab de Google drive.
+
+- Descarga, limpieza y preparación de datos.
+- Exploración de datos.
+  - Tablas y gráficos.
+  - Matriz de correlaciones.
+- Aplicación de modelos de Regresión Logística y Gaussian Naive Bayes.
+  - Métricas Accuracy y f1-score.
+  - Matriz de confusión.
+
 </p>
 
 <h2 align="left">Contáctate conmigo:</h2>
