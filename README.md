@@ -10,17 +10,17 @@
 <h3 align="left">Herramientas:</h3>
 
 <p align="left"> 
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="60" height="60"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="135" height="50"/> </a> 
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="75" height="75"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="145" height="50"/> </a> 
 <a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.png" alt="cplusplus" width="90" height="50"/> </a> 
+<a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.png" alt="cplusplus" width="110" height="60"/> </a> 
 </p>
 
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="30" width="40" /></a>
-📫 <strong>felipecatalanf9@gmail.com</strong></p> **felipecatalanf9@gmail.com**
+📫 <strong>felipecatalanf9@gmail.com</strong></p>
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
@@ -46,8 +46,8 @@ src="https://svgsilh.com/svg/150791.svg"
 alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong> 
 
 - Estadística descriptiva. (Tablas y gráficos)
-- Nube de palabras.
-- Matriz de correlación.
+  - Nube de palabras.
+  - Matriz de correlación.
 - Modelos lineales. (Regresiones simples y múltiples)
 </p>
 
