@@ -65,3 +65,4 @@ Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la n
 <font size=20>📫felipecatalanf9@gmail.com</font>
 </p>
 
+<font size=20>felipecatalanf9@gmail.com</font>
