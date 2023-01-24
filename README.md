@@ -22,7 +22,7 @@
 
 📫 **felipecatalanf9@gmail.com**
 
-## Hey! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> Dale una mirada a mi trabajo.
+## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="40" height="40" /> Dale una mirada a mi trabajo.
 
 <p align="left">
 <a 
