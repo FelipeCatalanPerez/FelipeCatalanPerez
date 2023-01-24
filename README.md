@@ -55,7 +55,9 @@ href="https://felipecatalanperez.github.io/Databricks_SQL/"
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/33766.svg" 
 alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
-Laboratorio realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
+Laboratorio realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> 
+
+Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
 
 -	Exploración los datos. (Aplicación de filtros y condicionales)
 -	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)
