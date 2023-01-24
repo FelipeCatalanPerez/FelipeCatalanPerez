@@ -7,7 +7,7 @@
 - :bar_chart: *Análisis con estadística descriptiva.*
 - :chart_with_upwards_trend: *Análisis y aplicación de modelos de predicción y clasificación.*
 
-<h3 align="left">Herramientas:</h3>
+<h2 align="left">Herramientas:</h2>
 
 <p align="left"> 
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="75" height="75"/> </a> 
@@ -15,12 +15,6 @@
 <a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.png" alt="cplusplus" width="110" height="60"/> </a> 
 </p>
-
-
-<h3 align="left">Contáctate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="30" width="40" /></a>
-📫 <strong>felipecatalanf9@gmail.com</strong></p>
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
@@ -64,3 +58,13 @@ Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la n
 -	Exploración los datos. (Aplicación de filtros y condicionales)
 -	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)
 </p>
+
+<h2 align="left">Contáctate conmigo:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="40" width="45" /></a>
+📫 <strong>felipecatalanf9@gmail.com</strong></p>
+
+
+
+
+
