@@ -1,5 +1,5 @@
 <h1 align="left"> 👋 Hola, mi nombre es Felipe Ignacio Catalán Perez</h1>
-<h3 align="left">Soy un Ingeniero Comercial que busca desarrollarse como analista de datos</h3>
+<h3 align="left">Soy Ingeniero Comercial y busco desarrollarme como analista de datos</h3>
 
 *Joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales análisis en diferentes herramientas, aquí encontrarás:*
 
@@ -14,6 +14,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="145" height="50"/> </a> 
 <a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.png" alt="cplusplus" width="110" height="60"/> </a> 
+<a href="https://markdown.es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/347160/markdown.svg" alt="cplusplus" width="110" height="60"/> </a> 
 </p>
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
