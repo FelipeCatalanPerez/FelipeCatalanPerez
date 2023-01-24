@@ -61,7 +61,36 @@ Laboratorio realizado en el <strong>lenguaje de consulta estructurada SQL.</stro
 -	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)
 </p>
 
+|<p align="left">
+<a 
+href="https://felipecatalanperez.github.io/Laboratorio_1/" 
+target="blank"><img align="center" 
+src="https://svgsilh.com/svg/146021.svg" 
+alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a></p>   |Laboratorio de exploración de Datos en el **lenguaje de programación R.**
 
+- Limpieza de datos.
+- Estadística descriptiva. (Tablas y gráficos)
+- Modelos lineales. (Regresiones simples y múltiples)   | 
+|<p align="left">
+<a 
+href="https://felipecatalanperez.github.io/Laboratorio2/" 
+target="blank"><img align="center" 
+src="https://svgsilh.com/svg/150791.svg" 
+alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a></p>   |Laboratorio de exploración de Datos en el **lenguaje de programación R.** 
+
+- Estadística descriptiva. (Tablas y gráficos)
+- Nube de palabras.
+- Matriz de correlación.
+- Modelos lineales. (Regresiones simples y múltiples)   | 
+|<p align="left">
+<a 
+href="https://felipecatalanperez.github.io/Databricks_SQL/" 
+target="blank"><img align="center" 
+src="https://svgsilh.com/svg/33766.svg" 
+alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a></p>   |Laboratorio realizado en el **lenguaje de consulta estructurada SQL.** Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
+
+-	Exploración los datos. (Aplicación de filtros y condicionales)
+-	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)   | 
 
 
 
