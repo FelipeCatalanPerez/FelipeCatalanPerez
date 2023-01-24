@@ -11,7 +11,7 @@
 
 <p align="left"> 
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="60" height="60"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="95" height="50"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="110" height="50"/> </a> 
 <a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.png" alt="cplusplus" width="80" height="50"/> </a> 
 </p>
