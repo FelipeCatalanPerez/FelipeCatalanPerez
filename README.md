@@ -24,6 +24,8 @@
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
+### Puedes hacer <img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="20" height="20" /> en los números que te llevaran a mis laboratorios
+
 <p align="left">
 <a 
 href="https://felipecatalanperez.github.io/Laboratorio_1/" 
