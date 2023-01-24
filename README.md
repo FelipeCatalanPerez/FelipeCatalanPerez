@@ -18,7 +18,7 @@
 
 ## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
-### Puedes dar<img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="30" height="30" />en los números que te llevaran a los laboratorios
+### Puedes dar<img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="30" height="30" />en los laboratorios
 
 <p align="center">
 <a 
@@ -34,25 +34,14 @@ Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.<
 - Modelos lineales. (Regresiones simples y múltiples)
 </p>
 
-
-<p align="left">
-<a 
-href="https://felipecatalanperez.github.io/Laboratorio_1/" 
-target="blank"><img align="center" 
-src="https://svgsilh.com/svg/146021.svg" 
-alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong>
-
-- Limpieza de datos.
-- Estadística descriptiva. (Tablas y gráficos)
-- Modelos lineales. (Regresiones simples y múltiples)
-</p>
-
 <p align="left">
 <a 
 href="https://felipecatalanperez.github.io/Laboratorio2/" 
 target="blank"><img align="center" 
-src="https://svgsilh.com/svg/150791.svg" 
-alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong> 
+src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio2.gif" 
+alt="https://felipecatalanperez.github.io/Laboratorio2/" height="100" width="200" /> </a> 
+
+Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong> 
 
 - Estadística descriptiva. (Tablas y gráficos)
   - Nube de palabras.
@@ -64,8 +53,9 @@ alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" 
 <a 
 href="https://felipecatalanperez.github.io/Databricks_SQL/" 
 target="blank"><img align="center" 
-src="https://svgsilh.com/svg/33766.svg" 
+src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio3.gif" 
 alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
+
 Laboratorio realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> 
 
 Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
