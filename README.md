@@ -62,7 +62,6 @@ Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la n
 <h2 align="left">Contáctate conmigo:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="40" width="45" /></a>
-<font size=20>📫felipecatalanf9@gmail.com</font>
 </p>
 
-<font size=20>felipecatalanf9@gmail.com</font>
+### 📫**felipecatalanf9@gmail.com**
