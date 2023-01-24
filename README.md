@@ -25,7 +25,7 @@
 href="https://felipecatalanperez.github.io/Laboratorio_1/" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio1.gif" 
-alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="140" width="7140" /> </a> 
+alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="140" width="400" /> </a> 
 
 Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong>
 
