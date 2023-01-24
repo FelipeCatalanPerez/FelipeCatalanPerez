@@ -22,14 +22,14 @@
 
 📫 **felipecatalanf9@gmail.com**
 
-## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="40" height="40" /> Dale una mirada a mi trabajo.
+## Hey! <img src="https://www.gifss.com/cuerpo-humano/ojos/images/gif-ojos-5.gif" width="30" height="30" /> Dale una mirada a mi trabajo.
 
 <p align="left">
 <a 
 href="https://felipecatalanperez.github.io/Laboratorio_1/" 
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/146021.svg" 
-alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a>
+alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> Esto es texto
 </p>
 
 <p align="left">
