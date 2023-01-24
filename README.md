@@ -69,6 +69,7 @@ href="https://colab.research.google.com/drive/19p5Zx6v-Lpv4tjDshJ14aGLJp0e50u2M#
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio4.gif" 
 alt="https://colab.research.google.com/drive/19p5Zx6v-Lpv4tjDshJ14aGLJp0e50u2M#scrollTo=TghDDREo-qNp" height="100" width="200" /> </a>
+
 Laboratorio 4 de Análisis de Sentimientos en el <strong>lenguaje de programación Python.</strong> Realizado en colab de Google drive.
 
 - Extracción de datos de twitter. (Uso de API twint)
