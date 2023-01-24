@@ -29,7 +29,7 @@
 href="https://felipecatalanperez.github.io/Laboratorio_1/" 
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/146021.svg" 
-alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a><strong> Laboratorio de exploración de Datos en el lenguaje de programación R.</strong>
+alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong>
 
 - Limpieza de datos.
 - Estadística descriptiva. (Tablas y gráficos)
@@ -41,18 +41,13 @@ alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70"
 href="https://felipecatalanperez.github.io/Laboratorio2/" 
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/150791.svg" 
-alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> </p>
-
-
-### Laboratorio de exploración de Datos en el lenguaje de programación R. 
-
+alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong> 
 
 - Estadística descriptiva. (Tablas y gráficos)
 - Nube de palabras.
 - Matriz de correlación.
 - Modelos lineales. (Regresiones simples y múltiples)
-
-
+</p>
 
 <p align="left">
 <a 
