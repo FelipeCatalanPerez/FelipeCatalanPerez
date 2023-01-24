@@ -34,7 +34,7 @@ Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.<
 - Modelos lineales. (Regresiones simples y múltiples)
 </p>
 
-<p align="left">
+<p align="center">
 <a 
 href="https://felipecatalanperez.github.io/Laboratorio2/" 
 target="blank"><img align="center" 
@@ -49,12 +49,12 @@ Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.<
 - Modelos lineales. (Regresiones simples y múltiples)
 </p>
 
-<p align="left">
+<p align="center">
 <a 
 href="https://felipecatalanperez.github.io/Databricks_SQL/" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio3.gif" 
-alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="70" width="70" /> </a>
+alt="https://felipecatalanperez.github.io/Databricks_SQL/" height="100" width="200" /> </a>
 
 Laboratorio realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> 
 
