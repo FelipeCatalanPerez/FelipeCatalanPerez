@@ -44,7 +44,7 @@ alt="https://felipecatalanperez.github.io/Laboratorio2/" height="100" width="200
 
 Laboratorio 2 de exploración de Datos en el `lenguaje de programación R.` 
 
-- Estadística descriptiva. (Tablas y gráficos)
+- Exploración de datos. (Tablas y gráficos)
   - Nube de palabras.
   - Matriz de correlación.
 - Modelos lineales. (Regresiones simples y múltiples)
@@ -75,9 +75,7 @@ Laboratorio 4 de Análisis de Sentimientos en el `lenguaje de programación Pyth
 - Extracción de datos de twitter. (Uso de API twint)
   - Uso de bucles, funciones y operadores lógicos.
 - Lematización.
-  - Limpieza de texto.
-- Análisis grafico.
-  - Nube de palabras.
+- Análisis grafico.(Nube de palabras)
 </p>
 
 <p align="center">
@@ -90,8 +88,7 @@ alt="https://colab.research.google.com/drive/1j4CoogS2GO7KFg8Rc3CxhcURDm7VxUcO#s
 Laboratorio 5 Modelo de clasificación de Correos Spam en el `lenguaje de programación Python.` Realizado en colab de Google drive.
 
 - Descarga, limpieza y preparación de datos.
-- Exploración de datos.
-  - Tablas y gráficos.
+- Exploración de datos.(Tablas y gráficos)
   - Matriz de correlaciones.
 - Aplicación de modelos de Regresión Logística y Gaussian Naive Bayes.
   - Métricas Accuracy y f1-score.
