@@ -1,7 +1,7 @@
 <h1 align="left"> 👋 Hola, mi nombre es Felipe Ignacio Catalán Perez</h1>
 <h3 align="left">Soy un Ingeniero Comercial que busca desarrollarse como analista de datos</h3>
 
-*Un joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales códigos, aquí encontrarás:*
+*Joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales análisis en diferentes herramientas, aquí encontrarás:*
 
 - :card_file_box: *Limpieza y recopilación de datos.*
 - :bar_chart: *Análisis con estadística descriptiva.*
@@ -11,9 +11,15 @@
 
 <p align="left"> 
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="cplusplus" width="60" height="60"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="50" height="50"/> </a> 
+
 <a href="https://github.com/FelipeCatalanPerez" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.png" alt="cplusplus" width="40" height="40"/> </a> 
+
+<a href="https://powerbi.microsoft.com/es-es/guidedtour/power-platform/power-bi/1/1" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="cplusplus" width="60" height="60"/> </a> 
+
 </p>
+
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
