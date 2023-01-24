@@ -42,11 +42,12 @@ href="https://felipecatalanperez.github.io/Laboratorio2/"
 target="blank"><img align="center" 
 src="https://svgsilh.com/svg/150791.svg" 
 alt="https://felipecatalanperez.github.io/Laboratorio2/" height="70" width="70" /> </a> </p>
-Laboratorio de exploración de Datos en el lenguaje de programación R. 
+
+### Laboratorio de exploración de Datos en el lenguaje de programación R. 
 - Estadística descriptiva. (Tablas y gráficos)
--	Nube de palabras.
--	Matriz de correlación.
--	Modelos lineales. (Regresiones simples y múltiples)
+- Nube de palabras.
+- Matriz de correlación.
+- Modelos lineales. (Regresiones simples y múltiples)
 
 
 <p align="left">
