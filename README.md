@@ -20,12 +20,14 @@
 
 ### Puedes dar<img src="https://media.tenor.com/MlHKXX_Uh40AAAAC/klick-click.gif" width="30" height="30" />en los números que te llevaran a los laboratorios
 
-<p align="left">
+<p align="center">
 <a 
 href="https://felipecatalanperez.github.io/Laboratorio_1/" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio1.gif" 
-alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="70" width="70" /> </a> Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong>
+alt="https://felipecatalanperez.github.io/Laboratorio_1/" height="140" width="7140" /> </a> 
+
+Laboratorio de exploración de Datos en el <strong>lenguaje de programación R.</strong>
 
 - Limpieza de datos.
 - Estadística descriptiva. (Tablas y gráficos)
