@@ -69,16 +69,15 @@ href="https://colab.research.google.com/drive/19p5Zx6v-Lpv4tjDshJ14aGLJp0e50u2M#
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Laboratorio4.gif" 
 alt="https://colab.research.google.com/drive/19p5Zx6v-Lpv4tjDshJ14aGLJp0e50u2M#scrollTo=TghDDREo-qNp" height="100" width="200" /> </a>
+Laboratorio 4 de Análisis de Sentimientos en el <strong>lenguaje de programación Python.</strong> Realizado en colab de Google drive.
 
-Laboratorio 3 realizado en el <strong>lenguaje de consulta estructurada SQL.</strong> Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la nube, basada en Apache Spark llamada Databricks.
-
--	Exploración los datos. (Aplicación de filtros y condicionales)
--	Visualización de los datos. (Se debe cambiar la opción de tabla por visualización)
+- Extracción de datos de twitter. (Uso de API twint)
+  - Uso de bucles, funciones y operaciones lógicas.
+- Lematización.
+  - Limpieza de texto.
+- Análisis grafico.
+  - Nube de palabras.
 </p>
-
-
-
-
 
 <h2 align="left">Contáctate conmigo:</h2>
 <p align="left">
