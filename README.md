@@ -64,6 +64,6 @@ Para su desarrollo se utilizó una plataforma interactiva y colaborativa en la n
 <a href="https://www.linkedin.com/in/felipe-catalán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-catalán" height="40" width="45" /></a><FONT SIZE=7>📫felipecatalanf9@gmail.com</font></p>
 
 
-
+<FONT SIZE=7>A</font>
 
 
