@@ -1,4 +1,4 @@
-<p align="center"> ![Header](https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png)
+<p align="center">
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png">
 </p>
 
