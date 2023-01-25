@@ -2,7 +2,7 @@
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png">
 </p>
 
-*Joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales análisis en diferentes herramientas, aquí encontrarás:*
+*Profesional de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso me encuentro finalizando un diplomado para modelamiento y análisis de datos, aquí presento mis principales análisis con diferentes herramientas:*
 
 - :card_file_box: *Limpieza y recopilación de datos.*
 - :bar_chart: *Análisis con estadística descriptiva.*
