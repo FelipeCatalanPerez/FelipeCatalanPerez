@@ -1,4 +1,5 @@
 <p align="center"> ![Header](https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png)
+<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png">
 </p>
 
 *Joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales análisis en diferentes herramientas, aquí encontrarás:*
