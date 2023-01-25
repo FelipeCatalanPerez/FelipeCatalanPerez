@@ -1,7 +1,5 @@
-![Header](https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png)
-
-<h1 align="left"> 👋 Hola, mi nombre es Felipe Ignacio Catalán Perez</h1>
-<h3 align="left">Soy Ingeniero Comercial y busco desarrollarme como analista de datos</h3>
+<p align="center"> ![Header](https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png)
+</p>
 
 *Joven de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso presento mis principales análisis en diferentes herramientas, aquí encontrarás:*
 
