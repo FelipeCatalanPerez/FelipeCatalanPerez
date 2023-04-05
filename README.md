@@ -2,11 +2,11 @@
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/FelipeCatalanPerez/FelipeCatalanPerez/main/Banner.png">
 </p>
 
-*Profesional de 26 años que se está iniciando en el amplio mundo de los datos. Busco crecimiento profesional como data science, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Para eso me encuentro finalizando un diplomado para modelamiento y análisis de datos, aquí presento mis principales análisis con diferentes herramientas:*
+*Profesional de 26 años que se está iniciando en el amplio mundo de los datos. Mi objetivo es convertirme en analista de datos, combinando conocimientos en estadística y el uso de nuevas herramientas tecnológicas. Además cuento con un diplomado para modelamiento y análisis de datos, gracias al cual puedo desarrollar diferentes herramientas que encontraras en este repositorio:*
 
 - :card_file_box: *Limpieza y recopilación de datos.*
-- :bar_chart: *Análisis con estadística descriptiva.*
-- :chart_with_upwards_trend: *Análisis y aplicación de modelos de predicción y clasificación.*
+- :bar_chart: *Análisis de estadística descriptiva y visualización de resultados.*
+- :chart_with_upwards_trend: *Aplicación de modelos de Machine Learning y Deep Learning.*
 
 <h2 align="left">Herramientas:</h2>
 
